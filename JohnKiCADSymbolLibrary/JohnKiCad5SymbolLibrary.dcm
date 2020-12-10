@@ -1,0 +1,89 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3.3V
+D Power symbol creates a global label with name "+3.3V"
+K power-flag
+$ENDCMP
+#
+$CMP +3V3
+D Power symbol creates a global label with name "+3V3"
+K power-flag
+$ENDCMP
+#
+$CMP +5V
+D Power symbol creates a global label with name "+5V"
+K power-flag
+$ENDCMP
+#
+$CMP 1.0UF-0402-16V-10%
+D 1uF ceramic capacitors A capacitor is a passive two-terminal electrical component used to store electrical energy temporarily in an electric field.
+K PROD_ID:CAP-12417
+$ENDCMP
+#
+$CMP 1.0UF-0603-16V-10%
+D 1uF ceramic capacitors A capacitor is a passive two-terminal electrical component used to store electrical energy temporarily in an electric field.
+K PROD_ID:CAP-00868
+$ENDCMP
+#
+$CMP 1.0UF-0805-25V-10%
+D 1uF ceramic capacitors A capacitor is a passive two-terminal electrical component used to store electrical energy temporarily in an electric field.
+K PROD_ID:CAP-08064
+$ENDCMP
+#
+$CMP Conn_01x01_Male
+D Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP GND
+D Power symbol creates a global label with name "GND" , ground
+K power-flag
+$ENDCMP
+#
+$CMP LED-BLUE0603
+D Blue SMD LED Used in manufacturing of various products at SparkFun <b>Packages:</b><ul><li><b>0603</b> - SMD 0603 package <a href="http://www.digikey.com/product-detail/en/SMLE12BC7TT86/511-1589-2-ND/1641808">[Product Link]</li><li><b>1206</b> - SMD1206  package <a href="http://www.digikey.com/product-detail/en/lite-on-inc/LTST-C150TBKT/160-1643-1-ND/573584">[Product Link]</li><ul> <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13711 >ESP8266 Thing-Dev Board</a></li><li><a href= https://www.sparkfun.com/products/12757 >RedBoard</a></li></ul>
+K PROD_ID:DIO-08575
+$ENDCMP
+#
+$CMP LED-GREEN0603
+D Green SMD LED Used in manufacturing of various products at SparkFun <b>Packages:</b><ul><li><b>0603</b> - SMD 0603 package <a href="http://www.futureelectronics.com/en/technologies/semiconductors/optoelectronics/leds/Pages/9894312-LTST-C190GKT.aspx?CrossPart=HSMG-C190&IM=0">[Product Link]</li><li><b>LilyPad 1206</b> - SMD1206 LilyPad package <a href="http://www.futureelectronics.com/en/Technologies/Product.aspx?ProductID=IN150NGHARVATEKCORPORATION2049943&IM=0">[Product Link]</li><li><b> 1206</b> - SMD1206  package <a href=http://www.futureelectronics.com/en/technologies/semiconductors/optoelectronics/leds/Pages/8315665-LTST-C150KGKT.aspx?IM=0">[Product Link]</li><li><b> 1206 Bottom Mount</b> -SMD 1206 Bottom Mount <a href=http://www.digikey.com/product-detail/en/lite-on-inc/LTST-C230KGKT/160-1456-1-ND/386854">[Product Link]</li><ul> <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/821 >Pro Mini 328 -5V</a></li><li><a href= https://www.sparkfun.com/products/12757 >RedBoard</a></li><li><a href= https://www.sparkfun.com/products/13720 >MP3 Trigger</a></li><li><a href= https://www.sparkfun.com/products/11076 >Makey Makey</a></li></ul>
+K PROD_ID:DIO-00821
+$ENDCMP
+#
+$CMP LED-RED0603
+D Red SMD LED Used in manufacturing of most products at SparkFun <b>Packages:</b><ul><li><b>0603</b> - SMD 0603 package <a href="http://docs.avagotech.com/docs/AV02-0551EN">[Product Link]</li><li><b>0603 SMART</b> - SMD 0603 SMART package ( more efficient and expensive)<a href="http://www.osram-os.com/Graphics/XPic2/00077099_0.pdf">[Product Link]</li><li><b> 1206</b> - SMD1206  package <a href="https://www.sparkfun.com/datasheets/DevTools/LilyPad/Q150OVS4.pdff">[Product Link]</li><ul> <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/821 >Pro Mini 328 -5V</a></li><li><a href= https://www.sparkfun.com/products/12757 >RedBoard</a></li><li><a href= https://www.sparkfun.com/products/13613 >IOIO-OTG</a></li></ul>
+K PROD_ID:DIO-00819
+$ENDCMP
+#
+$CMP LED0603
+D <b>LED (Generic)</b>Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. Generic LEDs with no color specified.
+K PROD_ID:XXX-00000
+$ENDCMP
+#
+$CMP RESISTOR0402
+D Generic Resistor Package
+K PROD_ID:
+$ENDCMP
+#
+$CMP RESISTOR0603
+D Generic Resistor Package
+K PROD_ID:
+$ENDCMP
+#
+$CMP RESISTOR0805
+D Generic Resistor Package
+K PROD_ID:
+$ENDCMP
+#
+$CMP RESISTOR1206
+D Generic Resistor Package
+K PROD_ID:
+$ENDCMP
+#
+$CMP VIN
+D Input Voltage Supply Generic voltage input supply symbol.
+K PROD_ID:XXX-00000
+$ENDCMP
+#
+#End Doc Library
